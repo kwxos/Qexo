@@ -1,5 +1,5 @@
 # Qexo
-一个快速、强大、漂亮的在线 Hexo 编辑器，您的 Star 是对我最大的支持。
+一个快速、强大、漂亮的在线 Hexo 编辑器，您的 Star 是对我最大的支持
 
 *请查看 [文档](https://www.oplog.cn/qexo)*
 ![](https://github.com/Qexo/Qexo/assets/51912589/75b7bc95-419e-4daf-8c5a-fcf3dbed8c1b)
